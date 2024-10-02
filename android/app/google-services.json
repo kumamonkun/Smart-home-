@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "370748728220",
+    "project_id": "smart-homesyste-automat-osxhss",
+    "storage_bucket": "smart-homesyste-automat-osxhss.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:370748728220:android:4fd76d01ac59cbd3c75e59",
+        "android_client_info": {
+          "package_name": "com.mycompany.smarthomesysteautomation"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsayh6Uw3NfJ0360VfdxThKetfyK4vAfQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
